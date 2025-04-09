@@ -11,6 +11,7 @@ public class BasicCalculator {
         System.out.println("2. Subtract");
         System.out.println("3. Multiply");
         System.out.println("4. Divide");
+        System.out.println(".(master)");
         
         
         System.out.print("Enter the operation number (1/2/3/4): ");
